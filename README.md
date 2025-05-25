@@ -1,8 +1,14 @@
-# PrimerCuatrimestre2025
+# Portfolio Inteligente
 
-## Presentación de equipo
-Hola soy Florencia Lorenzati! Tengo 29 años, soy de Morteros, Córdoba. Contenta de ser parte de este equipo. <3
-##
-Hola mi nombre es Paula, soy de Cordoba. Espero que armemos un proyecto lindo y que nos vaya muy bien :)
-##
-Hola, soy Ignacio, soy de Córdoba, nos deseo un gran año como equipo! :P
+## Integrantes del equipo
+
+- **Florencia Lorenzati** – Hola soy Florencia y soy de Morteros, estoy interesada en la innovación tecnológica y en desarrollar soluciones útiles y creativas. Contenta de ser parte de este equipo!
+- **Paula** – Hola, mi nombre es Paula, soy de Córdoba. Espero que armemos un proyecto lindo y que nos vaya muy bien :)
+- **Ignacio** – Hola, soy Ignacio, soy de Córdoba, ¡nos deseo un gran año como equipo! :P
+- **Fabricio** – 
+- **Juan** – 
+- **Jeremías** – 
+
+## Rubro
+
+Redes sociales / Educación
