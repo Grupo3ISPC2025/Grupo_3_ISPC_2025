@@ -18,8 +18,21 @@ Redes sociales / Educación
 Consta de una plataforma web, desarrollada por y para estudiantes o profesionales en desarrollo de las áreas técnicas y creativas (Diseño Gráfico, Editores de Video, Programadores, etc.).
 Buscamos que sea un espacio donde presentar de manera clara y profesional, trabajos realizados, dejando asi un portfolio profesional y organizado, como meta futura planeamos sumar al sistema que brinde sugerencias automáticas que permitirán al usuario afinar su curriculum vitae.
 
-Posibles usuarios:
+### Problema a resolver:
+Muchos estudiantes y jóvenes profesionales no cuentan con un portfolio bien estructurado ni con un espacio donde subir documentos pesados.
+Tampoco saben cómo mejorar su CV o cómo organizar sus proyectos para mostrarlos adecuadamente.
+Esta plataforma busca resolver esto desde un enfoque accesible y educativo.
+
+### Posibles funcionalidades (mínimo producto viable - MVP):
+- Registro e inicio de sesión.
+- Subida de archivos (CV, proyectos, documentación).
+- Visualización y organización del portfolio personal.
+- Visualización pública del portfolio (opcional).
+
+
+### Posibles usuarios:
 Estudiantes que deben presentar proyectos o CV para becas, empleos o pasantías.
 Jóvenes profesionales buscando su primer empleo.
 Docentes que deseen enseñar a sus alumnos a armar un portfolio profesional.
 Instituciones educativas interesadas en ofrecer un espacio de práctica a sus estudiantes.
+
