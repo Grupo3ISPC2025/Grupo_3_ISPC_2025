@@ -12,3 +12,8 @@
 ## Rubro
 
 Redes sociales / Educación
+
+## Descripcion de proyecto
+### "Porfolio Inteligente"
+Consta de una plataforma web, desarrollada por y para estudiantes o profesionales en desarrollo de las áreas técnicas y creativas (Diseño Gráfico, Editores de Video, Programadores, etc.).
+Buscamos que sea un espacio donde presentar de manera clara y profesional, trabajos realizados, dejando asi un portfolio profesional y organizado, como meta futura planeamos sumar al sistema que brinde sugerencias automáticas que permitirán al usuario afinar su curriculum vitae.
