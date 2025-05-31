@@ -7,7 +7,7 @@ develop
 - **Paula** – Hola, mi nombre es Paula, soy de Córdoba. Espero que armemos un proyecto lindo y que nos vaya muy bien :)
 - **Ignacio** – Hola, soy Ignacio, soy de Córdoba, busco sumar una salida profesional, me interesa el diseño e intentar reunir muchas experiencias que me sirvan el dia de mañana, nos deseo un gran año como equipo! :D
 - **Fabricio** – 
-- **Juan** – 
+- **Juan** – Hola soy Juan Mignola, soy de Entre Rios pero viviendo en Cordoba. Agradecido por ser parte del equipo. Busco aportar mis conocimientos en la medida de lo posible y seguir desarrollandome en este mundo. Vamos con todo!
 - **Jeremías** – Hola me llamo  jeremias britos, tengo 21 años de edad y vivo en Cordoba, muy contento de estar en este grupo y voy a dar lo mejor de mi. 
 
 ## Rubro
